@@ -5,7 +5,7 @@
 * Avez-vous votre [JAVA_HOME](https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/) ? ... sinon [wikiHow to Set Java Home](http://www.wikihow.com/Set-Java-Home)
 	*	`echo %JAVA_HOME%` (Windows) 
 	*	`echo $JAVA_HOME`  (Mac OS/Linux)
-* [Créér un projet maven sous Eclipse](CreerProjetMajenEclipse/README.md)
+* [Créér un projet maven sous Eclipse](CreerProjetMajenEclipse.md)
 * [Mettre en place Sonar Qube sur un projet maven sous Eclipse](https://github.com/iblasquez/tutoriel_SonarQube)
  
 **Plug-in:**  
