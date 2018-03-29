@@ -19,6 +19,8 @@ Cliquez sur `Next` pour renseigner ensuite le `groupId` et l'`artifactId`.
 
 Il ne reste plus qu'à cliquer sur `Finish` pour créer le projet Maven et le voir s'afficher dans le **Package Explorer** d'Eclipse.
 
+**[Avril 2018]** : Si vous avez une erreur du genre *Could not resolve archetype...*, supprimez le répertoire `repository` que vous trouverez dans le répertoire `.m2` sous `C:\Users\{user_name}\.m2` et re-essayez de créer un projet maven.  
+
 Vous pouvez désormais ouvrir le nouveau projet maven créé. 
 
 Il est intéressant de noter que tous les projets Maven tendent à avoir la même structure.
