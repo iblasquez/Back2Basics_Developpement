@@ -75,7 +75,7 @@ Le bloc défini par la balise`<properties> ... </properties>` permet d'indiquer,
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.17</maven.compiler.source>
-    <maven.compiler.target>£{maven.${maven.compiler.source}</maven.compiler.target>
+    <maven.compiler.target>1.17</maven.compiler.target>
  </properties> 
 ``` 
 
