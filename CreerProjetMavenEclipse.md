@@ -97,7 +97,7 @@ C'est le site [mvnrepository.com](https://mvnrepository.com/) qui va nous aider 
 
 ![MvnRepositoryJunitJupiter](images/MvnRepositoryJunitJupiter.png)
 
-Cliquez sur `JUnit Jupiter (Aggregator)`, puis cliquez sur la dernière **Version** stable, le dernier chiffre en haut du tableau et recopiez le bloc dependency qui vous ait donné de manière à maodifier votre `pom` de la manière suivante :
+Cliquez sur `JUnit Jupiter (Aggregator)`, puis cliquez sur la dernière **Version** stable, le dernier chiffre en haut du tableau et recopiez le bloc dependency qui vous ait donné de manière à modifier votre `pom` de la manière suivante :
 
 ```XML  
 <dependencies>
@@ -132,11 +132,6 @@ Revenez dans la documentation Junit [4.Running Tests -> 4.2 Build Support -> 4.2
 		</plugins>
 	</build>  
 ```
-
-
-
-
-Tapez `maven-surefire` dans [mvnrepository.com](https://mvnrepository.com/) pour choisir `Maven Surefire Plugin` et récupérez le code XML de la balise <dependency> de la dernière version stable de ce plug-in...
 
 
 #### Mettre à jour le `pom.xml`
